@@ -1,4 +1,4 @@
-module github.com/gagliardetto/anchor-go
+module github.com/dcaf-mocha/anchor-go
 
 go 1.16
 
